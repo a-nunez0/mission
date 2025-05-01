@@ -10,8 +10,10 @@ body {
     font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
     max-width: 600px;
-    margin: 20;
+    margin: auto;
 }
+
+
 
 h2 {
     color: #006EB6;
@@ -19,4 +21,8 @@ h2 {
 
 img {
     width: 150px;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    margin-left: 35px;
+    margin-right: 35px;
 }
