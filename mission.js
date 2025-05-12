@@ -1,4 +1,5 @@
 const themeSelector = document.querySelector("#theme-selector");
+const logo = document.querySelector(".logo");
 
 function changeTheme() {
     const body = document.querySelector("body");
